@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus_diego_may_per=globalThis.webpackChunkdocusaurus_diego_may_per||[]).push([[348],{9967:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/docusaurusDiegoMayans/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

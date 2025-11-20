@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus_diego_may_per=globalThis.webpackChunkdocusaurus_diego_may_per||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/docusaurusDiegoMayans/blog","blogTitle":"Blog","authorsListPath":"/docusaurusDiegoMayans/blog/authors"}')}}]);
