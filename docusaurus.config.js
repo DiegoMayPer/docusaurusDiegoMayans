@@ -101,6 +101,19 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+
+          {
+            to: 'benvinguda-DiegoMayPer',
+            label: 'Benvinguda',
+            position: 'left',
+          },
+
+          {
+            to: 'desplegaments-DiegoMayPer',
+            label: 'Desplegaments',
+            position: 'left',
+          },
+
         ],
       },
       footer: {
